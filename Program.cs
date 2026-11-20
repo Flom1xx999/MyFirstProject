@@ -22,3 +22,4 @@ while (true)
 Console.WriteLine($"Привет, {name}! Это мой новый проект.");
 Console.WriteLine("Я изучаю VS Code, AI и GitHub.");
 Console.WriteLine("Моя первая программа успешно работает!");
+// Изменение в ветке feature-update
